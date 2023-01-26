@@ -1,6 +1,6 @@
 # Documentation
 
-This repository contains the codes for implementing the Conformal Prediction algorithm for Hidden Markov Models (proposed in: https://arxiv.org/abs/2210.02271) 
+This repository contains the codes for implementing the Conformal Prediction algorithm for Hidden Markov Models
 
 # Directions
 
