@@ -8,5 +8,5 @@ This repository contains the codes for implementing the Conformal Prediction alg
 Both files rely on the "Methods.py" file which contains the implementation of the main algorithm. 
 
 
-Outputs: The figure with the results will be stored in PDF format in the same folder
+Outputs: The figures with the generated results will be stored in PDF format in the same folder
 
